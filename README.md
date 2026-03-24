@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📫 Email: [zyc77768@gmail.com](mailto:zyc77768@gmail.com)
+
+### Metrics 📈
+
+![Metrics](github-metrics.svg)
+
+![3D Profile](profile-3d-contrib/profile-3d-contrib.svg)
